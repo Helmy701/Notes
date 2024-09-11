@@ -1,0 +1,7 @@
+{
+    "indenticator.hover.peekForward": 0,
+    "indenticator.hover.trimLinesShorterThan": 2,
+    "indenticator.inner.hover.peekBack": 2,
+    "indentRainbow.indicatorStyle": "light",
+    "indentRainbow.lightIndicatorStyleLineWidth": 3
+}
